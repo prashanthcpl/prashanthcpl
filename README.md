@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prashanthcpl
 - 👀 I’m interested in Cloud, Data and AI
-- 🌱 I’m currently learning ML Engineering
+- 🌱 Experienced on Cloud/Infrastructure Architecture. I’m currently learning ML Engineering
 - 💞️ I’m looking to collaborate on related projects especially on Healthcare
 
 
